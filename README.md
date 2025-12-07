@@ -25,7 +25,7 @@ The dataset is fully labeled using a BERT-based transformer model, making it ide
 * ✔ Extracting insights from social media data
 
 ## 🔗 Dataset Source
-**Kaggle Dataset:** ![Kaggle dataset](https://www.kaggle.com/datasets/alyahmedts13/reddit-sentiment-analysis-dataset-for-nlp-projects)
+**Kaggle Dataset:** [Kaggle dataset](https://www.kaggle.com/datasets/alyahmedts13/reddit-sentiment-analysis-dataset-for-nlp-projects)
 
 ---
 
